@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rock-wallpaper-2_edit_grey" size="715.000000 399.394531" />
+    <ImageTarget name="fiu_panther_grey" size="750.000000 968.750000" />
+  </Tracking>
+</QCARConfig>

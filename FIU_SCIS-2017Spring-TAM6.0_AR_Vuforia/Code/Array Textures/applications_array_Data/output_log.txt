@@ -1,0 +1,112 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2157 MB
+    Driver:   20.19.15.4463
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tlam9\Desktop\Final_Deliverable_tom_ramses\Code\Array Textures\applications_array_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 2736x1824 60Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.091283 ms
+Vuforia initialization successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 11ec -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.839595 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 0.907487 ms (FindLiveObjects: 0.080000 ms CreateObjectMapping: 0.113230 ms MarkObjects: 0.674872 ms  DeleteObjects: 0.037333 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.536205 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 450.
+Total: 0.298666 ms (FindLiveObjects: 0.027076 ms CreateObjectMapping: 0.009846 ms MarkObjects: 0.251897 ms  DeleteObjects: 0.009025 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.060308 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 367.
+Total: 2.861129 ms (FindLiveObjects: 0.061948 ms CreateObjectMapping: 0.011487 ms MarkObjects: 0.241230 ms  DeleteObjects: 2.546052 ms)
+
+Trackable rock-wallpaper-2_edit_grey lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dataset marker_images could not be loaded and cannot be activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating a Mono Camera Configuration (Check for reflection)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable rock-wallpaper-2_edit_grey lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
