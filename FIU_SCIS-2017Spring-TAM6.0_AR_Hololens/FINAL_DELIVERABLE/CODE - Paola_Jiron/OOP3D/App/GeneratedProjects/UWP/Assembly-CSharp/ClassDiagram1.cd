@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CreditTransition">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\CreditTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cursor">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\Cursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GazeGestureManager">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAACAAAAAQAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\GazeGestureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeTransition">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\HomeTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadSceneOnSelect">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\LoadSceneOnSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NextFourToResults">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\NextFourToResults.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NextThreeToFour">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\NextThreeToFour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NextTwoToThree">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\NextTwoToThree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuitApplication">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\QuitApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rotator">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\Rotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartTransition">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\StartTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VariableCommands">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>C:\Users\PaoPao\Documents\OOP3D\Assets\Scripts\VariableCommands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

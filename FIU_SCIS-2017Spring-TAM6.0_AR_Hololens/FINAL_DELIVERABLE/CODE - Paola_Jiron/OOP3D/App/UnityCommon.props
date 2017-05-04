@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityInstallationDir>C:\Program Files\Unity\Editor\</UnityInstallationDir>
+        <UnityWSASolutionName>OOP3D</UnityWSASolutionName>
+        <UnityWSASolutionDir>F:\SCHOOL\SENIOR_PROJECT\FIU SCIS-2017Spring-TAM_Hololens\PAOLA_JIRON_SP-FINAL_DELIVERABLE\CODE\OOP3D\App\</UnityWSASolutionDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+        <UnityProjectDir>F:\SCHOOL\SENIOR_PROJECT\FIU SCIS-2017Spring-TAM_Hololens\PAOLA_JIRON_SP-FINAL_DELIVERABLE\CODE\OOP3D\</UnityProjectDir>
+    </PropertyGroup>
+</Project>
